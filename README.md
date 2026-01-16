@@ -119,4 +119,3 @@ python src/retry_logic.py
 AI / GenAI Engineer
 AWS • Python • Prompt Engineering • LLM Systems
 
-```
